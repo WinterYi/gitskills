@@ -1,3 +1,6 @@
 wogaobudonggit
 
-haonanawoxianghuijia
+<<<<<<< HEAD
+=======
+shenmedoubuhuizenmeban
+>>>>>>> feature1
