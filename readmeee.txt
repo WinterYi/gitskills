@@ -1,6 +1,3 @@
 wogaobudonggit
 
-<<<<<<< HEAD
-=======
-shenmedoubuhuizenmeban
->>>>>>> feature1
+shou gou le !
